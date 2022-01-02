@@ -39,7 +39,7 @@
   <span><img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black"/></span>
   <span><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=white"/></span>
-  <br>
+
   
   <!-- <span><img src="https://img.shields.io/badge/GitLab-FCA121?style=flat&logo=GitLab&logoColor=white"/></span><br/> -->
   <br>
@@ -49,7 +49,6 @@
   <span><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></span>
   <span><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/></span>
 </p>
-<br>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftpleehan&count_bg=%234490E7&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
