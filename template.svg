@@ -223,6 +223,7 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
+
   </g>
 
   <!-- Hi, I'm Lee Han -->
@@ -246,6 +247,7 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
+
   </g>
 
   <!-- From Seoul... -->
@@ -270,6 +272,7 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
+
   </g>
 
   <!-- Thanks -->

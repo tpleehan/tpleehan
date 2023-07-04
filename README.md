@@ -1,4 +1,4 @@
-![chat_svg](https://github.com/tpleehan/tpleehan/blob/master/chat.svg)
+![chat_svg](https://github.com/tpleehan/tpleehan/blob/main/chat.svg)
 
 <!-- Top Language -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpleehan&layout=compact&theme=github_dark) -->

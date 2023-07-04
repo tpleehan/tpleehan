@@ -272,11 +272,12 @@
     <circle cx="58.2054" cy="20.9773" r="5.02275" fill="#999999">
       <animate attributeName="opacity" values="0.5;1;0.5" dur="1s" begin="0.4s" repeatCount="indefinite" />
     </circle>
+
   </g>
 
   <!-- Thanks -->
-  <g transform="translate(10, 120)" class="msg-3">
-    <rect width="385" height="66.13" rx="18.0355" class="bubble" />
+	<g transform="translate(10, 120)" class="msg-3">
+    <rect width="459" height="66.1302" rx="18.0355" class="bubble" />
 		<text x="15" y="27">오늘 하루 좋은 일만 가득하시길 기원합니다 !</text>
     <text x="15" y="50">Have a great Monday! <tspan class="emoji">👋</tspan></text>
   </g>
