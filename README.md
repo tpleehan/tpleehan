@@ -14,7 +14,9 @@
   </a>
 </p>
 
-![snake svg](https://github.com/tpleehan/tpleehan/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tpleehan/tpleehan/output/github-contribution-grid-snake.svg">
+</picture>
 
 <p>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftpleehan&count_bg=%234490E7&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
