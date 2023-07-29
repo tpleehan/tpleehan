@@ -15,7 +15,7 @@
 </p>
 
 <picture>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tpleehan/tpleehan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tpleehan/tpleehan/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <p>
